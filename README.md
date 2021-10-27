@@ -1,2 +1,2 @@
-# educational-project-Yandex.Practicum
+# educational_project_Yandex.Practicum
 Учебные проекты с Яндекс.Практикума
